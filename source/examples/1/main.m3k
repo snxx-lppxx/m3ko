@@ -1,0 +1,6 @@
+include (
+	std
+) # this is my first comment 
+:main()
+	print("Hello, M3ko!");
+:
